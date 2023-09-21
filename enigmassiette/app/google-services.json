@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531812684749",
+    "project_id": "enigmaassiette",
+    "storage_bucket": "enigmaassiette.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531812684749:android:776b1ae20990952ee4aa84",
+        "android_client_info": {
+          "package_name": "ENIGMA_ASSIETTE.app.main"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB80dGPoDBlNtDcXqQWtWOlYPiKuu_blAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
